@@ -1,0 +1,27 @@
+{
+  "name": "GDG Tech Talk",
+  "version": "0.0.5",
+  "homepage": "http://techtalk.gdgsalvador.info/",
+  "authors": [
+    "willmendesneto <willmendesneto@gmail.com>"
+  ],
+  "description": "Website - GDG Tech Talk",
+  "keywords": [
+    "technology",
+    "development",
+    "agile",
+    "google",
+    "google developers group",
+    "salvador",
+    "management",
+    "network"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "bootstrap": "~3.0.3",
+    "fastclick": "~0.6.10",
+    "gmaps": "~0.4.9"
+  }
+}

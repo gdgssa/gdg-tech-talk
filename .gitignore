@@ -1,0 +1,9 @@
+app/bower_components
+app/*.json
+node_modules
+npm-debug.log
+dist
+.tmp
+.*.swp
+.sass-cache
+src
